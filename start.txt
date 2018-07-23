@@ -1,1 +1,1 @@
-Another example through Git Bashgit status!
+Another example through Git Bash!
